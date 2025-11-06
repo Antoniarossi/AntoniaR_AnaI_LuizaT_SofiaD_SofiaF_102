@@ -1,6 +1,6 @@
 body {
   color: #fa5cc5;
-  background-color: rgb(235, 226, 226);
+  background-color: #f9a3df(235, 226, 226);
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -29,7 +29,7 @@ header img {
 }
 
 h1 {
-  color: #fafcf9;
+  color: #f9a3df;
 }
 
 footer img {
@@ -60,7 +60,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #f6fbf4;
+  color: #f9a3df;
 }
 
 .contact-form input {
@@ -75,7 +75,7 @@ nav a:hover {
 
 button {
   color: rgb(243, 127, 200);
-  background-color: white;
+  background-color: #f9a3df;
   border: none;
   width: 100px;
   height: 30px;
